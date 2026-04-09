@@ -1,4 +1,4 @@
 # demo
 This is My first Git Repository.
 <br>
-Author - Vaishnavi Ambrale
+Author - Vaishnavi
